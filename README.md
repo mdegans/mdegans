@@ -6,5 +6,5 @@
 - 🤔 I’m looking for help with Debian packaging.
 - 💬 Ask me about Tegra.
 - 📫 How to reach me: michael.john.degans@gmail.com
-- 😄 Pronouns: he
+- 😄 Pronouns: he/him
 - ⚡ Fun fact: Samoyeds shed a lot -- like a ton.
