@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a social distancing library written in Vala using DeepStream elements in a GStreamer pipeline.
+- 🔭 I’m currently working on a project for a client.
 - 🌱 I’m currently learning Rust
 - 👯 I’m looking to collaborate on anything Tegra or Covid-19 related.
 - 🤔 I’m looking for help with Debian packaging.
